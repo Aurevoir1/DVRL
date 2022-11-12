@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/LightGBM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LightGBM/external_libs/compute" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LightGBM/external_libs/eigen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LightGBM/external_libs/fast_double_parser" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LightGBM/external_libs/fast_double_parser/benchmarks/dependencies/abseil-cpp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LightGBM/external_libs/fast_double_parser/benchmarks/dependencies/double-conversion" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LightGBM/external_libs/fmt" vcs="Git" />
+  </component>
+</project>
